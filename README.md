@@ -13,6 +13,10 @@ for termux ;-
 
 1) apt upgrade
 2) apt update
-3) git clone
+3) git clone https://github.com/Aseebshibin/audiophish.git
+4) cd audiophish
+5) bash audiophish.sh
+
+
 
 
