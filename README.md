@@ -17,6 +17,10 @@ for termux ;-
 4) cd audiophish
 5) bash audiophish.sh
 
+for linux:-
 
+1) git clone https://github.com/Aseebshibin/audiophish.git
+2) cd audiophish
+3) bash audiophish.sh
 
 
